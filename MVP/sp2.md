@@ -1,28 +1,18 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-
-- Qual problema resolve?
-
-A dificuldade e a lentidão que gestores públicos e investidores enfrentam ao tentar analisar dados económicos fragmentados, dificultando a visão clara sobre onde as empresas e os empregos estão concentrados.
-
-- Qual hipótese será validada?
-
-Acreditamos que, ao unificar os dados do mercado de trabalho (base RAIS) num painel interativo (Dashboard em Power BI), reduziremos o tempo de análise de dados e aumentaremos a precisão na formulação de políticas públicas e atração de investimentos.
-
-- Qual valor será entregue ao usuário final?
-
-Clareza, agilidade e inteligência de mercado. O cliente poderá responder a perguntas complexas sobre a economia da cidade com apenas alguns cliques.
+> Descrever de forma clara qual é o propósito do MVP:  
+- Qual problema resolve?  
+- Qual hipótese será validada?  
+- Qual valor será entregue ao usuário final?  
 
 ---
 
 ## 📝 Descrição da Solução
-
-- Funcionalidades principais incluídas:
-
-- Limitações conhecidas:
-
-- Escopo:
+> Breve explicação do que será desenvolvido e entregue nesta etapa.  
+- Funcionalidades principais incluídas  
+- Limitações conhecidas  
+- Escopo reduzido (somente o essencial para validar a ideia)  
 
 ---
 
@@ -35,50 +25,41 @@ Clareza, agilidade e inteligência de mercado. O cliente poderá responder a per
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC.      | Alta       | 5 pontos   |
-| US2 |    Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC.     | Alta      | 3 pontos   |
-| US3 |  Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC.      | Média      | 3 pontos   |   
-
+| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Extração e filtro (VS CODE e EXCEL), Tratamento CNAE, Classificação nos 6 grupos econômicos e Criação do GitHub.                    | Concluído|
-| 02     | Desenvolvimento visual: Criação dos painéis interativos, mapas de densidade e indicadores setoriais.                        | Concluído |
+| 01     | [Funcionalidade X, Y]                        | Concluído|
+| 02     | [Funcionalidade Z]                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-
-- Navegabilidade: O cliente deve conseguir alternar entre os 6 painéis setoriais de forma fluida.
-
-- Interatividade: Todos os painéis possuem botões de filtros (ex: "Limpar filtros", Filtro de Bairro, Filtro de CNAE) que respondem instantaneamente.
-
-- Precisão Visual: Padrão de cores e identidade visual alinhados, garantindo uma leitura fácil de gráficos de barras, gráficos de rosca e mapas geográficos para usuários não-técnicos. 
+- O MVP deve permitir que o usuário [ação principal]  
+- O sistema deve registrar [evento importante]  
+- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
 
 ## 📈 Métricas de Validação
-
-- Número de usuários (stakeholders, professores orientadores) que testaram o MVP.
-
-- Feedback qualitativo (positivo/negativo) focado na clareza das informações e facilidade de uso da ferramenta.
-
-- Indicadores de negócio: Redução do tempo necessário para o usuário final extrair e compreender uma métrica do setor em comparação à busca manual.  
+- Número de usuários que testaram o MVP  
+- Feedback qualitativo (positivo/negativo)  
+- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
 
 ## 🚀 Próximos Passos
+- Melhorias planejadas após feedback  
+- Ajustes de usabilidade  
+- Expansão de funcionalidades para próximo incremento  
 
-- Melhorias planejadas após feedback da apresentação da Sprint 2.
-
-- Ajustes de usabilidade e padronização visual de todos os painéis.
-
-- Expansão de funcionalidades para o próximo incremento (Sprint 3), como a inclusão do padrão completo dos painéis setoriais feitos no power bi.
+---
 
 ## 📂 Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Vídeo (MVP) 
