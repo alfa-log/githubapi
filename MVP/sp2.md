@@ -18,9 +18,11 @@ Clareza, agilidade e inteligência de mercado. O cliente poderá responder a per
 
 ## 📝 Descrição da Solução
 
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Funcionalidades principais incluídas:
+
+- Limitações conhecidas:
+
+- Escopo:
 
 ---
 
@@ -49,25 +51,32 @@ Clareza, agilidade e inteligência de mercado. O cliente poderá responder a per
 ---
 
 ## 📊 Critérios de Aceitação
+
 - Navegabilidade: O cliente deve conseguir alternar entre os 6 painéis setoriais de forma fluida.
+
 - Interatividade: Todos os painéis possuem botões de filtros (ex: "Limpar filtros", Filtro de Bairro, Filtro de CNAE) que respondem instantaneamente.
+
 - Precisão Visual: Padrão de cores e identidade visual alinhados, garantindo uma leitura fácil de gráficos de barras, gráficos de rosca e mapas geográficos para usuários não-técnicos. 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+
+- Número de usuários (stakeholders, professores orientadores) que testaram o MVP.
+
+- Feedback qualitativo (positivo/negativo) focado na clareza das informações e facilidade de uso da ferramenta.
+
+- Indicadores de negócio: Redução do tempo necessário para o usuário final extrair e compreender uma métrica do setor em comparação à busca manual.  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
 
----
+- Melhorias planejadas após feedback da apresentação da Sprint 2.
+
+- Ajustes de usabilidade e padronização visual de todos os painéis.
+
+- Expansão de funcionalidades para o próximo incremento (Sprint 3), como a inclusão do padrão completo dos painéis setoriais feitos no power bi.
 
 ## 📂 Anexos / Evidências
 - Prints de tela  
